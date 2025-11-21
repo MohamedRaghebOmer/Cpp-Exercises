@@ -1,3 +1,6 @@
 [submodule "Cpp-Exercises-level-1-Course-3-"]
 	path = Cpp-Exercises-level-1-Course-3-
 	url = https://github.com/MohamedRaghebOmer/Cpp-Exercises-level-1-Course-3-.git
+[submodule "Cpp-Exercises-Level-2-Course-5-"]
+	path = Cpp-Exercises-Level-2-Course-5-
+	url = https://github.com/MohamedRaghebOmer/Cpp-Exercises-Level-2-Course-5-.git
