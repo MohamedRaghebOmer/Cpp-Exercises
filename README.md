@@ -62,7 +62,7 @@ These are the six course repositories (submodule names reflect your naming):
 Clone this meta-repo together with all submodules in one command:
 
 ```bash
-git clone --recurse-submodules https://github.com/<your-username>/Cpp-Exercises.git
+git clone --recurse-submodules https://github.com/<MohamedRaghebOmer>/Cpp-Exercises.git
 ```
 
 If you already cloned without submodules, initialize and fetch them:
